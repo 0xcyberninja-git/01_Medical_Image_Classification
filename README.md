@@ -41,4 +41,3 @@ This project implements a state-of-the-art deep learning solution for medical im
 - **Scalable Architecture**: Supports batch processing and production deployment
 - **Comprehensive Documentation**: Detailed guides for training, inference, and fine-tuning
 
-## 📁 Project Structure
